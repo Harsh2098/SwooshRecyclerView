@@ -1,0 +1,3 @@
+include ':SwooshRecyclerView'
+include ':app'
+rootProject.name = "Swoosh Recycler"
